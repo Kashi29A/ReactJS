@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import 'bootstrap/dist/css/bootstrap.min.css'; // do it first before custom css as that can override btstrap css
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
